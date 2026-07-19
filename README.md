@@ -4,7 +4,7 @@
 
 **Urdu Roman CSS Utility Framework** — Tailwind jaisa kaam, apni zaban mein.
   
-Write CSS classes in Urdu Roman script and style your HTML instantly.
+Write CSS classes in Urdu Roman script and style your HTML instantly. 
 
 html
 <!-- Sirf yeh ek line add karo -->
